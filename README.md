@@ -14,11 +14,6 @@ This is the **frontend** of the **PC Builder E-Commerce Platform**, built using 
 2. [Installation](#installation)
 3. [Project Structure](#project-structure)
 4. [Development Setup](#development-setup)
-5. [Running the Application](#running-the-application)
-6. [Testing](#testing)
-7. [Deployment](#deployment)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
